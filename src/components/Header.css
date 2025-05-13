@@ -1,0 +1,11 @@
+header {
+  background-color: #92d31b;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+header img {
+  height: 80px;
+  margin-bottom: 1rem;
+}
